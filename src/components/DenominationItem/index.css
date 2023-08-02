@@ -1,0 +1,16 @@
+.denomination-item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .denomination-button {
+    color: #d4d2db;
+    background-color: #382f5a;
+    border: solid 1px #c4c4c4;
+    border-radius: 10px;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+  }
